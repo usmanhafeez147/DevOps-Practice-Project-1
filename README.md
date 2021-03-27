@@ -10,7 +10,7 @@ So each step of this project will be documented.
 
 Team Members
 1) Muhammad Irfan Afzal (mi3afzal@gmail.com)
-
+2) Usman Abdul Hafeez (usmanhafeez147@gmail.com)
 
 
 DevOps has 8 steps as below
